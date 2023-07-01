@@ -1,13 +1,10 @@
 * {
 	font-weight: normal;
 	margin: 0;
-	background-color:#f6f6f6;
 	font-family: 'Helvetica', sans-serif;
-	font-size: 10pt;
-	line-height: 12pt;
-	text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	font-size: 12pt;
+	line-height: 14pt;
+	color: black;
 }
 
 html { -webkit-text-size-adjust: 100%; }
